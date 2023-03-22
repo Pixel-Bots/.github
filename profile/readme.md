@@ -1,5 +1,5 @@
 # Hey we are Pixel Bots!
-We are a small team of devs who make guilded bots
+We are a small team of devs who make guilded and discord bots
 
 Meet the team:
 
