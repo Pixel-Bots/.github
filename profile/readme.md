@@ -15,7 +15,7 @@ We believe in keeping our projects safe and secure.
 
 ### Supported Projects
 
-Open Bot  | :white_check_mark: | Ends: 2026
+Stackable  | :white_check_mark: |  Ends: 2026
 
 
 
