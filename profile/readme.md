@@ -15,7 +15,7 @@ We believe in keeping our projects safe and secure.
 
 ### Supported Projects
 
-Stackable  | :white_check_mark: |  Ends: 2026
+NULL
 
 
 
